@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-lavora-oke.github.io/sitemap.xml
